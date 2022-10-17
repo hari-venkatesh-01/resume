@@ -1,0 +1,62 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    
+    display: flex;
+    
+}
+.leftbox{
+    background-color: skyblue;
+    width: 350px;
+    padding:50px;
+}
+.rightbox{
+    
+    width:100%;
+}
+
+.leftbox .user-image{
+width: 250px;
+height: 250px;
+top: 0px;
+border-radius: 100%;
+}
+.name h2{
+    font-family: 'Secular One', sans-serif;
+  
+    padding-left: 20px;
+    height:30px;
+    width:30px;
+}
+.name1 h4{
+    padding: 10px;
+}
+.name1 h2{
+    padding: 10px;
+}
+.rightbox .name p{
+    padding-top: 70px;
+    text-align: center;
+    font-size:40px;
+}
+.container1  .leftbox1 h1{
+    color: violet(71, 61, 139, 0.911);
+    position: relative;
+}
+.container1{
+    
+    display: flex;
+    
+}
+.leftbox1{
+    background-color: skyblue;
+    width: 775px;
+}
+.rightbox1{ 
+    
+    width:150%;
+}
